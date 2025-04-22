@@ -213,15 +213,15 @@ export const skills = [
       description:
         "FileBox is a cloud-based file management web application built using HTML, CSS, JS, Node.js, and AWS services like EC2, S3, and RDS, allowing users to securely upload, manage, and access their files online.",
       image:
-        "https://private-user-images.githubusercontent.com/113960662/321014740-6bf2a3a4-3fd6-45c7-a559-f0bf4d01c964.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3ODA3NDIsIm5iZiI6MTc0NDc4MDQ0MiwicGF0aCI6Ii8xMTM5NjA2NjIvMzIxMDE0NzQwLTZiZjJhM2E0LTNmZDYtNDVjNy1hNTU5LWYwYmY0ZDAxYzk2NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxNlQwNTE0MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YzQzNDBlZGM5MWUzNjBlMTUzNTc1ZWFjMTY1YjQ5ZjRhOWRiY2EyZDY1YWNmNTY0ZjgzZjViM2RmZTBhNjdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tS2XWFUFevYTfOO8wD1f_U0H88NTXLlD8DC-j1BwVY4",
+        "https://raw.githubusercontent.com/Niranjan179/Portfolio/refs/heads/master/src/components/images/FileBox.png",
       tags: [
         "AWS",
         "HTML",
         "CSS",
         "JavaScript",
       ],
-      category: "web app",
-      github: "https://github.com/rajesh-kumar-jashti/CRUD-API",
+      category: "cloud applications",
+      github: "https://github.com/Niranjan179/FileBox",
     },
     {
       id: 0,
@@ -230,34 +230,33 @@ export const skills = [
       image: "https://private-user-images.githubusercontent.com/113960662/322208229-eacc9237-6299-4b67-a516-beaac27552fd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3ODEwMzYsIm5iZiI6MTc0NDc4MDczNiwicGF0aCI6Ii8xMTM5NjA2NjIvMzIyMjA4MjI5LWVhY2M5MjM3LTYyOTktNGI2Ny1hNTE2LWJlYWFjMjc1NTJmZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQxNlQwNTE4NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGFmMjI0ZWY3ZjVlNTcxZWUxOTMwN2MxYWMyMDI1MDdkZmI3NTE3YmIzMjgxYjUwOGJlNmU3MjI5MDhkNjhkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-GEFw9hguwUqEzrWBu1R8CAiMoB_An5UiOBo5IPWXBA",
       tags: ["Java","XML", "Google Api's"],
       category: "android app",
-      github: "https://github.com/rajesh-kumar-jashti/ShoppersZone-E-Commerce",
+      github: "https://github.com/Niranjan179/QuietTime-App",
     },
     {
       id: 1,
-      title: "Stock Management System",
+      title: "Job Portal",
       description:
-        "The Stock Management System developed using Java Swing and JDBC provides a user-friendly interface for managing inventory. It enables users to add, update, delete, and view stock items efficiently. JDBC facilitates seamless database connectivity, ensuring data is stored and retrieved reliably from the backend. The system supports functionalities such as stock level monitoring, order processing, and generating reports. Its intuitive design and robust backend integration streamline inventory management tasks for businesses.",
+        "The Job Portal developed using React and JSON as a backend server offers a simple and intuitive interface for managing job listings. It allows users to add, update, delete, and apply for jobs efficiently. Built with React functional components, it utilizes hooks like useState, useEffect, and useParams, and supports editing job details such as salary and description seamlessly.",
       image:
         "https://raw.githubusercontent.com/rajesh-kumar-jashti/Portfolio-website/main/src/components/images/Stock_management.png",
       tags: [
-        "Java",
-        "Java Swing",
-        "Java JDBC",
-        "My SQL",
+        "React.js",
+        "JSON Server",
+        "Tailwind CSS",
       ],
       category: "web app",
-      github: "https://github.com/rajesh-kumar-jashti/stock-management-system-using-java",
+      github: "https://github.com/Niranjan179/Job-Portal",
     },
     {
       id: 3,
-      title: "Zoom Clone",
+      title: "Library Management System",
       description:
-        "A Zoom Clone using Flutter is a cross-platform video conferencing app designed to replicate the core features of Zoom. It allows users to host and join meetings, enabling real-time audio and video communication, chat messaging, and screen sharing. The app leverages WebRTC for seamless media transmission and integrates with Firebase for authentication and real-time data synchronization. With a user-friendly interface and customizable UI components, it ensures a robust and scalable solution for remote collaboration.",
+        "Library Management System is a comprehensive software solution designed to streamline the management of library resources and user interactions. The system allows administrators to add, delete, and manage books, while providing users with the ability to borrow and return books. Features include tracking due dates, handling renewals, and viewing borrowing history. The system supports user authentication, with separate roles for staff and students, ensuring secure access to various functions. With a robust backend to manage book categories, availability, and user profiles, the Library Management System offers an efficient and user-friendly platform for both library management and user experience.",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnsbQxT7zSEgpvjzVX2RWeMkBJo8wzhd3joA&s",
-      tags: ["Flutter", "Dart", "Firebase"],
-      category: "android app",
-      github: "https://github.com/rajesh-kumar-jashti/Zoom_clone",
+      tags: ["C++"],
+      category: "android",
+      github: "https://github.com/Niranjan179/Library-Management-System",
     },
     {
       id: 8,
